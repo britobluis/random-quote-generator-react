@@ -23,3 +23,5 @@ QuoteBox.propTypes = {
     currentQuote: PropTypes.object.isRequired,
     newQuoteClick: PropTypes.func.isRequired
 };
+
+export default QuoteBox;
